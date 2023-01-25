@@ -1,1 +1,29 @@
 
+1)Deep Learning-Based Safety Helmet Detection in Engineering Management Based on Convolutional Neural Networks
+
+         The safety of riders depends greatly on their wearing helmets. Any intelligent traffic system must automatically detect those who are breaking the rules of the roadway.
+ It has been noted that the majority of motorcycle riders choose not to wear helmets on city streets or even on highways.
+ In most motorcycle accident situations, wearing a helmet can lower the risk of head and serious brain injuries for the riders.
+ In this paper, a framework for helmet detection while riding is proposed. To identify riders who are not wearing helmets, a cascade classifier based on machine learning and HAAR characteristics are used.
+ If the result is negative, the rider is informed right away so they can use helmets and ride safely. After a few additional warnings, a relay switch connected to the Raspberry Pi and the DC motor stops the two-wheeler correctly if this is ignored.
+ The experimental results show that the evaluation results of this method are highly consistent with helmet detection and we got the experimental result of accuracy 97.6%.
+
+link:  https://ieeexplore.ieee.org/document/9952083
+
+2)Deep Learning-Food Image Recognition and Calorie Prediction
+
+        With the increasing number of health issues reported due to obesity and overeating, people have become cautious about their diet intake to prevent themselves from the diseases such as hypertension, diabetes, and other heart related problem which are caused due to obesity.
+ The important part of any healthy diet plan is its calories intake. Hence, we propose a deep learning-based technique to calculate the calories of the food items present in the image captured by the user.
+ It used a layer-based approach to predict calorie in the food item which include Image Acquisition, Food item classification, Surface area detection and calorie prediction.
+
+link:https://ieeexplore.ieee.org/document/9422510
+
+3)IOT-Smart Water Quality Monitoring
+
+       This paper represents an IoT (Internet of things) based smart water quality monitoring (SWQM) system that aids in continuous measurement of water condition based on four physical parameters i.e., temperature, pH, electric conductivity and turbidity properties.
+Four sensors are connected with arduino-uno in discrete way to detect the water parameters. Extracted data from the sensors are transmitted to a desktop application developed in NET platform and compared with the WHO (World Health Organization) standard values.
+Based on the measured result, the proposed SWQM system can successfully analyze the water parameters using fast forest binary classifier to classify whether the test water sample is drinkable or not.
+
+link: https://ieeexplore.ieee.org/document/8821742
+
+4)
